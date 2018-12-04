@@ -1,6 +1,6 @@
 # mondys_wardrobe
 
-A new Flutter application.
+An E-commerce app for wardrobe shopping built with flutter.
 
 ## Getting Started
 
